@@ -1,6 +1,5 @@
 # Loan Default Prediction with Keras
 
-![Keras](https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg)
 
 ## 📌 Project Overview
 This project builds a neural network model using **Keras** to predict whether a borrower will fully repay their loan or default (charged off), based on historical LendingClub data.
